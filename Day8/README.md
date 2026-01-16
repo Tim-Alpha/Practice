@@ -73,3 +73,5 @@ the **1-based index** of the element that does not match the others.
 
 - In the first test case, `11` is the unique element → index `2`.
 - In the second test case, `3` is the unique element → index `3`.
+
+https://codeforces.com/problemset/problem/1512/A
